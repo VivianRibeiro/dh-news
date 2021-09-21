@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Koh+Santepheap:wght@300&display=swap');
+*{
+    box-sizing: border-box; 
+}
+body{
+    font-family: "Koh Santepheap";
+}
+.container{
+    width: 1000px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+header h1{
+    color: red;
+}
+header h2{
+    font-size: 15px;
+}
+.banner1 img{
+    width: 1000px;
+    height: 400px;
+}
